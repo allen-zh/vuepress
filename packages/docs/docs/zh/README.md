@@ -17,7 +17,8 @@ footer: MIT Licensed | Copyright © 2018-present Evan You
 
 ``` bash
 # 安装
-yarn global add vuepress # 或者：npm install -g vuepress
+yarn global add vuepress@next
+# 或者：npm install -g vuepress@next
 
 # 新建一个 markdown 文件
 echo '# Hello VuePress!' > README.md
